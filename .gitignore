@@ -26,6 +26,7 @@ bin/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+/src/test/java/kr/devme/config/JasyptConfigTest.java
 
 ### NetBeans ###
 /nbproject/private/
